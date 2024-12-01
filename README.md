@@ -1,1 +1,1 @@
-# YuxinLiu-Adeline-DASC-6510-02-Time-Series-Project
+# DASC-6510-02-Time-Series-Project
